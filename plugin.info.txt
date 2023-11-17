@@ -1,0 +1,6 @@
+base   mdbutton
+author Joerg Woll
+date   2023-11-17
+name   Markdown Button Plugin
+desc   Adds toolbar button to add markdown tag, like <markdown>.  This is a copy of the CodeButton extension, just slightly modified.
+url    https://github.com/w3bservie/mdbutton
